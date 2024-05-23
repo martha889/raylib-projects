@@ -1,0 +1,8 @@
+#ifndef GLOBALS_C
+#define GLOBALS_C
+
+#define SCREEN_WIDTH 800
+#define SCREEN_HEIGHT 800
+#define GRAVITIONAL_CONSTANT 1
+
+#endif
