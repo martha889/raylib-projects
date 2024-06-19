@@ -18,7 +18,7 @@ Hobby projects that I made using raylib in C.
 <br>
 
 5. consistent hashing 
-<p align="center"><img src="https://github.com/martha889/raylib-projects/blob/main/consistent hashing/demo.gif"/></p>
+<p align="center"><img src="https://github.com/martha889/raylib-projects/blob/main/consistent-hashing/demo.gif"/></p>
 <br>
 
 
